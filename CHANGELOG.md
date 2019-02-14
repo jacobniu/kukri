@@ -2,13 +2,9 @@ Change Log
 ==========
 
 
-Version 1.1.0 *(2019-01-28)*
+Version 1.0.0 *(2019-02-14)*
 ----------------------------
 
  * Add the tvlayout module to support resolution adaptation.
-
-
-Version 1.0.0 *(2019-01-28)*
-----------------------------
-
-Initial release.
+ * Add the util module to provide a common utility.
+ * Add tvlayout demo example.

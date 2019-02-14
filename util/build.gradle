@@ -110,7 +110,7 @@ bintray {
 
     configurations = ['archives']
     pkg {
-        repo = "kukri"
+        repo = "android"
         name = "kukri"
         userOrg = 'jacobniu'
         websiteUrl = siteUrl

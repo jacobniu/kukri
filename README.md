@@ -1,6 +1,6 @@
 # Kukri
 
-[![](https://jitpack.io/v/pengjieniu/kukri.svg)](https://jitpack.io/#pengjieniu/kukri)<br>
+ [ ![Download](https://api.bintray.com/packages/jacobniu/android/kukri/images/download.svg?version=1.0.0) ](https://bintray.com/jacobniu/android/kukri/1.0.0/link)<br>
 
 android tv box develop package.
 
@@ -10,13 +10,13 @@ android tv box develop package.
 
 ## Download
 
-You can download a jar from GitHub's [releases page](https://github.com/pengjieniu/kukri/releases).
+You can download a jar from [here](https://bintray.com/jacobniu/android/kukri).
 
 Add it to your build.gradle with:
 ```
 allprojects {
     repositories {
-        maven { url 'https://jitpack.io' }
+        jcenter()
     }
 }
 ```
@@ -24,6 +24,6 @@ and:
 ```
 dependencies {
     // tvlayout
-    implementation 'com.github.pengjieniu.kukri:tvlayout:{latest version}'
+    implementation 'com.jacobniu.kukri:tvlayout:{latest version}'
 }
 ```
