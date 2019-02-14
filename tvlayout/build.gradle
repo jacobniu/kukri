@@ -40,3 +40,85 @@ dependencies {
     // constraint layout依赖
     implementation "com.android.support.constraint:constraint-layout:$constraint_layout_version"
 }
+
+// publishing
+apply plugin: 'com.github.dcendents.android-maven'
+apply plugin: 'com.jfrog.bintray'
+
+def siteUrl = 'https://github.com/jacobniu/kukri'
+def gitUrl = 'https://github.com/jacobniu/kukri.git'
+
+group = 'com.jacobniu.kukri'
+version = '1.0.0'
+
+install {
+    repositories.mavenInstaller {
+        pom.project {
+            packaging 'aar'
+            name "tvlayout"
+            artifactId "tvlayout"
+            description 'android tv box develop package'
+            url siteUrl
+
+            licenses {
+                license {
+                    name 'The Apache Software License, Version 2.0'
+                    url 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+                }
+            }
+
+            developers {
+                developer {
+                    id 'jacobniu'
+                    name 'jacobniu'
+                    email 'jacobniuniu@gmail.com'
+                }
+            }
+
+            scm {
+                connection gitUrl
+                developerConnection gitUrl
+                url siteUrl
+            }
+        }
+    }
+}
+
+task sourcesJar(type: Jar) {
+    from android.sourceSets.main.java.srcDirs
+    classifier = 'sources'
+}
+
+task javadoc(type: Javadoc) {
+    source = android.sourceSets.main.java.srcDirs
+    classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
+    failOnError false
+}
+
+task javadocJar(type: Jar, dependsOn: javadoc) {
+    classifier = 'javadoc'
+    from javadoc.destinationDir
+}
+
+artifacts {
+    archives javadocJar
+    archives sourcesJar
+}
+
+Properties properties = new Properties()
+properties.load(project.rootProject.file('local.properties').newDataInputStream())
+bintray {
+    user = properties.getProperty('bintray.user')
+    key = properties.getProperty('bintray.apikey')
+
+    configurations = ['archives']
+    pkg {
+        repo = "android"
+        name = "kukri"
+        userOrg = 'jacobniu'
+        websiteUrl = siteUrl
+        vcsUrl = gitUrl
+        licenses = ["Apache-2.0"]
+        publish = true
+    }
+}

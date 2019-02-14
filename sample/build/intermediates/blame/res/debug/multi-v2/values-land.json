@@ -4,7 +4,7 @@
             "outputFile": "/Users/ajayniu/blueprints2019/androidProject/kukri/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/ajayniu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a080a40dc274730f9312a041dc7abb4c/res/values-land/values-land.xml",
+                    "source": "/Users/ajayniu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b9e603712c26f3ad0f6001b4312184b9/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
