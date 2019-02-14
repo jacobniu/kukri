@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ajayniu/blueprints2019/androidProject/kukri/util/build/intermediates/res/merged/release/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/ajayniu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b9e603712c26f3ad0f6001b4312184b9/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ajayniu/blueprints2019/androidProject/kukri/util/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/ajayniu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b9e603712c26f3ad0f6001b4312184b9/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

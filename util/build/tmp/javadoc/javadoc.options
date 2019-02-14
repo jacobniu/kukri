@@ -1,0 +1,9 @@
+-classpath '/Users/ajayniu/android/sdk/platforms/android-28/android.jar'
+-d '/Users/ajayniu/blueprints2019/androidProject/kukri/util/build/docs/javadoc'
+-doctitle 'util 1.0.0 API'
+-quiet 
+-windowtitle 'util 1.0.0 API'
+'/Users/ajayniu/blueprints2019/androidProject/kukri/util/src/main/java/kukri/util/extension/Toasts.kt'
+'/Users/ajayniu/blueprints2019/androidProject/kukri/util/src/main/java/kukri/util/extension/Image.kt'
+'/Users/ajayniu/blueprints2019/androidProject/kukri/util/src/main/java/kukri/util/extension/Views.kt'
+'/Users/ajayniu/blueprints2019/androidProject/kukri/util/src/main/java/kukri/util/extension/Async.kt'
