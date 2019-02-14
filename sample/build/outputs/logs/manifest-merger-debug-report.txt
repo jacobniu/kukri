@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:1-21:12
+MERGED from [:tvlayout] /Users/ajayniu/blueprints2019/androidProject/kukri/tvlayout/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b9e603712c26f3ad0f6001b4312184b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1caa4f8cc72b1f6fd6d107323ab2896/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/fcd6f485c0b924f8d3b02575acad03a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cd058bfacd4f66983f0298f1f563d1fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d669028c26a445da51b03858cb2c65f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/04114f7785ee15bb07211717aa350147/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2db292704426c05918dd14abf7435fd7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a050122c6c3f4b027e671975891b12e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/870347f3ec2d435e0f818e7eb01337f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5cfdb99a2f0d5c99f68a919da1cb48b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b08023d4420e6395ec763f2a89f437e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3f898c82bc4986d3f16fd5d909b55af7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a01aa61018914200f6470822eb5ffb0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fe9aca4e419e3c62cfc254fbf292436a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cdb84980e9c4643f2f3be48be93c73e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9c82697126ef1db46b1961573f914a51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/12bc1dd65184f619981036c94577c39d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54e77d736cd745615238976839bd1683/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3f73ee461bd604dbb8159018bba10d3d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0cab2f69e48174ab2e240fdc0fd80286/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6f1a32f50854ed9454bd48b7495c2651/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/03e527ac1c464589ac85d70b45c817e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a97a868a2e30fab459ba4126d8442c42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ac5e3e95d1a284b89d67ee59d578d5f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2c8fe5e76483f42ed37f4df142d544ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/03b0d376a3071bf8d2b6b7bd9e4194b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fb59905662882f7724ea550e6b3d6b0f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a27ac34a21eb801ca82af9c75511e25e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:1-21:12
+	package
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:4:3-20:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1caa4f8cc72b1f6fd6d107323ab2896/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1caa4f8cc72b1f6fd6d107323ab2896/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/12bc1dd65184f619981036c94577c39d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/12bc1dd65184f619981036c94577c39d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54e77d736cd745615238976839bd1683/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54e77d736cd745615238976839bd1683/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/12bc1dd65184f619981036c94577c39d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:9:5-31
+	android:label
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:7:5-37
+	android:roundIcon
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:8:5-50
+	android:icon
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:6:5-39
+	android:allowBackup
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:5:5-31
+	android:theme
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:10:5-36
+activity#kukri.sample.TvLayoutSample
+ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:11:5-19:16
+	android:name
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:11:15-45
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:12:7-18:23
+action#android.intent.action.VIEW
+ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:13:17-58
+action#android.intent.action.MAIN
+ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:14:9-60
+	android:name
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:16:9-68
+	android:name
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:16:19-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:17:9-67
+	android:name
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml:17:19-65
+uses-sdk
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+MERGED from [:tvlayout] /Users/ajayniu/blueprints2019/androidProject/kukri/tvlayout/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:tvlayout] /Users/ajayniu/blueprints2019/androidProject/kukri/tvlayout/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b9e603712c26f3ad0f6001b4312184b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b9e603712c26f3ad0f6001b4312184b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1caa4f8cc72b1f6fd6d107323ab2896/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a1caa4f8cc72b1f6fd6d107323ab2896/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/fcd6f485c0b924f8d3b02575acad03a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/fcd6f485c0b924f8d3b02575acad03a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cd058bfacd4f66983f0298f1f563d1fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cd058bfacd4f66983f0298f1f563d1fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d669028c26a445da51b03858cb2c65f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d669028c26a445da51b03858cb2c65f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/04114f7785ee15bb07211717aa350147/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/04114f7785ee15bb07211717aa350147/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2db292704426c05918dd14abf7435fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2db292704426c05918dd14abf7435fd7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a050122c6c3f4b027e671975891b12e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/a050122c6c3f4b027e671975891b12e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/870347f3ec2d435e0f818e7eb01337f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/870347f3ec2d435e0f818e7eb01337f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5cfdb99a2f0d5c99f68a919da1cb48b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5cfdb99a2f0d5c99f68a919da1cb48b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b08023d4420e6395ec763f2a89f437e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b08023d4420e6395ec763f2a89f437e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3f898c82bc4986d3f16fd5d909b55af7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/3f898c82bc4986d3f16fd5d909b55af7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a01aa61018914200f6470822eb5ffb0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a01aa61018914200f6470822eb5ffb0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fe9aca4e419e3c62cfc254fbf292436a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fe9aca4e419e3c62cfc254fbf292436a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cdb84980e9c4643f2f3be48be93c73e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cdb84980e9c4643f2f3be48be93c73e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9c82697126ef1db46b1961573f914a51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9c82697126ef1db46b1961573f914a51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/12bc1dd65184f619981036c94577c39d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/12bc1dd65184f619981036c94577c39d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54e77d736cd745615238976839bd1683/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/54e77d736cd745615238976839bd1683/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3f73ee461bd604dbb8159018bba10d3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3f73ee461bd604dbb8159018bba10d3d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0cab2f69e48174ab2e240fdc0fd80286/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0cab2f69e48174ab2e240fdc0fd80286/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6f1a32f50854ed9454bd48b7495c2651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6f1a32f50854ed9454bd48b7495c2651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/03e527ac1c464589ac85d70b45c817e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/03e527ac1c464589ac85d70b45c817e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a97a868a2e30fab459ba4126d8442c42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a97a868a2e30fab459ba4126d8442c42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ac5e3e95d1a284b89d67ee59d578d5f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ac5e3e95d1a284b89d67ee59d578d5f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2c8fe5e76483f42ed37f4df142d544ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/2c8fe5e76483f42ed37f4df142d544ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/03b0d376a3071bf8d2b6b7bd9e4194b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/03b0d376a3071bf8d2b6b7bd9e4194b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fb59905662882f7724ea550e6b3d6b0f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fb59905662882f7724ea550e6b3d6b0f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a27ac34a21eb801ca82af9c75511e25e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ajayniu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a27ac34a21eb801ca82af9c75511e25e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/ajayniu/blueprints2019/androidProject/kukri/sample/src/main/AndroidManifest.xml
