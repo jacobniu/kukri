@@ -1,4 +1,0 @@
-#Wed Feb 13 18:51:22 CST 2019
-base.0=/Users/ajayniu/blueprints2019/androidProject/kukri/sample/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex

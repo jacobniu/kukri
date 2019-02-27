@@ -1,1 +1,1 @@
-include ':sample', ':tvlayout', ':util'
+include ':sample', ':tvlayout', ':util', ':leanback', ':leanbackshowcase'
